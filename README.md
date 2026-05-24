@@ -21,7 +21,7 @@
 
 ```python
 rahul = {
-    "name"        : "Rahul K P",
+    "name"        : "RAHUL K P",
     "role"        : ["ML Engineer", "Gen AI Engineer", "AI Engineer"],
     "education"   : "MSc Computer Science @ 2026",
     "location"    : "Kerala, India 🇮🇳",
