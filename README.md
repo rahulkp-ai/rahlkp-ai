@@ -28,7 +28,7 @@ rahul = {
     "status"      : "🟢 Open to Work — WFH | On-site | R&D Lab | Anywhere",
     "focus"       : ["Generative AI", "LLMs", "MLOps", "Deep Learning"],
     "certified"   : "IBM Generative AI Engineering Professional",
-    "fun_fact"    : "I debug with chai ☕ and deploy with confidence 🚀"
+    "fun_fact"    : "I debug with coffee ☕ and deploy with confidence 🚀"
 }
 ```
 
