@@ -12,6 +12,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-rahulkpai-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rahulkpai)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--3403--6670-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-3403-6670)
 [![GitHub](https://img.shields.io/badge/GitHub-rahulkp--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulkp-ai)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-rahulkp--ai-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/rahulkp-ai)
 
 </div>
 
@@ -126,6 +127,7 @@ rahul = {
 | Platform | Link |
 |---|---|
 | 💼 LinkedIn | [linkedin.com/in/rahulkp-ai](https://www.linkedin.com/in/rahulkp-ai/) |
+| 🤗 Hugging Face | https://huggingface.co/rahulkp-ai |
 | 📊 Kaggle | [kaggle.com/rahulkpai](https://www.kaggle.com/rahulkpai) |
 | 🔬 ORCID | [orcid.org/0009-0009-3403-6670](https://orcid.org/0009-0009-3403-6670) |
 | 📧 Email | rahulkpkurup@gmail.com |
